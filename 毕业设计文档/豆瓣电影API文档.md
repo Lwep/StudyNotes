@@ -4,5 +4,7 @@
 
 1. 通过id查询详情
 
+   douban.uieee.com/v2/movie/subject/30252495
+   
    
 
